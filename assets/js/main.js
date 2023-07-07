@@ -12,7 +12,7 @@ const showMenu = (toggleId, navId) =>{
 showMenu('nav-toggle','nav-menu')
 
 // Array of roles
-const roles = ['Web Developer', 'App Developer', 'UI/UX Developer'];
+const roles = ['Web Developer', 'App Developer', 'UI/UX Designer'];
 let currentIndex = 0;
 const roleElement = document.getElementById('role');
 
